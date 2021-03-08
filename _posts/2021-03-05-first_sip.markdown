@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "A Cup of Communi-Tea"
+date:   2021-03-02 14:34:25
+categories: introduction
+tags: test
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+Hang around me long enough online or in real life, and you know I like tea. It's what I bring home from vacations (or at least did, in the before time), excursions to lovely local teashops, and dangerous forays onto tea-selling websites. When friends come over, they know the question "do you want a cup of tea" is going to have some follow ups, like what kind of tea, then what variety of that kind, what cute mug or cup they want it in, and of course, how they take it. 
+
+So it makes sense that one of my memorable initial forays into the open source community beyond Ubuntu MATE, my initial project, came about because of an online tea party. One of the only benefits to conferences going virtual in 2020 is that they were either much cheaper or they were free. So after attending the Open Source Summit North America/My Office Chair, I essentially decided to go to as many conferences looked interesting, and one of them was GUADEC. This is the GNOME project's annual meeting, and even though I loved the sheer amount of information I got at the OSS' Community Track, I've found I like the smaller conferences which are run by various communities. This has also been my experience at fandom conventions (with the exception of my love for DragonCon, which is an enormous community-run convention that basically takes over Downtown Atlanta over Labor Day Weekend), so it makes sense that the preference followed into this new aspect of my life. GUADEC was asking for social events attendees wanted to host during registration, so I put I'd be up for anything Animal Crossing related or a tea party. A few days later, an e-mail from the event organizers arrived in my e-mail. "Can you tell us more about this tea party?"
+
+It was a simple shindig, and maybe that's what made it work. A small group on a Big Blue Button instance, most of whom had tea, but some of whom had coffee or water, the latter of which is basically decompiled tea. A few people had fixed sandwiches or brought treats like macarons - I had baked and decorated cookies in the shape of the GNOME logo, which is conveniently a foot, and easy to find a corresponding cookie cutter on Etsy. By the end, we'd all broken out our fancy hats, and one GNOME member even gave us a veritable montage of his hat collection. It was exhilarating, and not just because of the caffeine in my cup. It felt good to contribute to to an open source organization, not with code or documentation, but with energy, enthusiasm, and, as usual, way too much tea.
+
+Another tea party (and exchange) followed. And so did an interview at Canonical for the Ubuntu Community Representative position, someone who would support community governance and help the broader community not just be sustainable, but do amazing things. I started on February 16, and it seemed like as good a reason as any to try and spin up yet another Jekyll blog. But it needed a name, and if it was a name that could help give it a story, even better. So, communi-tea.io is here, and even though it's only just started steeping, I hope if you're interested in all things related (and a few things only slightly related) to open source communities, you stay around for a cup or two.
+
+Cheers,
+
+Monica

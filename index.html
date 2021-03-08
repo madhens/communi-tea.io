@@ -23,7 +23,8 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
+      <a href={{ "/about/" | prepend: site.baseurl }}>About | </a>
+      <a href={{ "/categories/" | prepend: site.baseurl }}>Categories</a>
     </div>
 </header>
 
@@ -45,7 +46,9 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+                {% for tag in post.categories %}
+                  <li><a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag }} category"><i class="fa fa-tags"></i> {{ tag }}</a></li>
+                {% endfor %}
             </div>
           </div>
         </article>
@@ -67,7 +70,9 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              {% for tag in post.categories %}
+                <li><a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag }} category"><i class="fa fa-tags"></i> {{ tag }}</a></li>
+              {% endfor %}
             </div>
           </div>
         </article>
