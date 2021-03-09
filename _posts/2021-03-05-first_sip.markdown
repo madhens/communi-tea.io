@@ -3,9 +3,9 @@ layout: post
 title:  "A Cup of Communi-Tea"
 date:   2021-03-02 14:34:25
 categories: introduction
-tags: test
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+image: /assets/article_images/callum-shaw-K5KQaLHni94-unsplash.jpg
 ---
+
 Hang around me long enough online or in real life, and you know I like tea. It's what I bring home from vacations (or at least did, in the before time), excursions to lovely local teashops, and dangerous forays onto tea-selling websites. When friends come over, they know the question "do you want a cup of tea" is going to have some follow ups, like what kind of tea, then what variety of that kind, what cute mug or cup they want it in, and of course, how they take it. 
 
 So it makes sense that one of my memorable initial forays into the open source community beyond Ubuntu MATE, my initial project, came about because of an online tea party. One of the only benefits to conferences going virtual in 2020 is that they were either much cheaper or they were free. So after attending the Open Source Summit North America/My Office Chair, I essentially decided to go to as many conferences looked interesting, and one of them was GUADEC. This is the GNOME project's annual meeting, and even though I loved the sheer amount of information I got at the OSS' Community Track, I've found I like the smaller conferences which are run by various communities. This has also been my experience at fandom conventions (with the exception of my love for DragonCon, which is an enormous community-run convention that basically takes over Downtown Atlanta over Labor Day Weekend), so it makes sense that the preference followed into this new aspect of my life. GUADEC was asking for social events attendees wanted to host during registration, so I put I'd be up for anything Animal Crossing related or a tea party. A few days later, an e-mail from the event organizers arrived in my e-mail. "Can you tell us more about this tea party?"
@@ -17,3 +17,4 @@ Another tea party (and exchange) followed. And so did an interview at Canonical 
 Cheers,
 
 Monica
+

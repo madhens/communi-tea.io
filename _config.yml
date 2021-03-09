@@ -5,8 +5,8 @@ gems:
 
 # Site settings
 title: "Communi-tea"
-description: > # this means to ignore newlines until "email:"
-   People and tech. Earl Grey, hot.
+description: > 
+   Earl Grey, hot.
 
 email: mayhens@gmail.com
 #blog logo
