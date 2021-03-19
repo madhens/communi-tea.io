@@ -4,6 +4,8 @@ gems:
   - jekyll-paginate
 
 # Site settings
+plugins:
+  - jekyll-feed
 title: "Communi-tea"
 description: > 
    Earl Grey, hot.
