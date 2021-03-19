@@ -5,7 +5,6 @@ date:   2021-03-02 14:34:25
 categories: introduction
 image: /assets/article_images/callum-shaw-K5KQaLHni94-unsplash.jpg
 ---
-Photo by [Tea Creative │ Soo Chung](https://unsplash.com/@teacreative) on [Unsplash](https://www.unsplash.com)
 
 Hang around me long enough online or in real life, and you know I like tea. It's what I bring home from vacations (or at least did, in the before time), excursions to lovely local teashops, and dangerous forays onto tea-selling websites. When friends come over, they know the question "do you want a cup of tea" is going to have some follow ups, like what kind of tea, then what variety of that kind, what cute mug or cup they want it in, and of course, how they take it. 
 
@@ -19,3 +18,4 @@ Cheers,
 
 Monica
 
+Photo by [Callum Shaw](https://unsplash.com/@callumshaw) on [Unsplash](https://www.unsplash.com)
